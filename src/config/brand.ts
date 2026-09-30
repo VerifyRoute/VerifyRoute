@@ -18,8 +18,8 @@ export const BRAND = {
   tagline: "Inference routing with verified transparency",
   description:
     "Verify Route is an inference router on Robinhood Chain: hundreds of AI models behind one API key and one USDG balance, with provider bonds, quality canaries, signed receipts and TEE attestation on every call.",
-  x: "https://x.com/verifyroute",
-  xHandle: "@verifyroute",
+  x: "https://x.com/verifroute",
+  xHandle: "@verifroute",
   /** Public GitHub repository. Empty hides every GitHub link on the site. */
   github: "https://github.com/VerifyRoute/VerifyRoute" as string,
   ca: CA,

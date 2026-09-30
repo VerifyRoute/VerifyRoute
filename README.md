@@ -2,7 +2,7 @@
 
 **Know. Verify. Route.** Inference routing with verified transparency, on Robinhood Chain.
 
-Website: https://verifyroute.tech · X: [@verifyroute](https://x.com/verifyroute) · Token: **$Verify**
+Website: https://verifyroute.tech · X: [@verifroute](https://x.com/verifroute) · Token: **$Verify**
 
 ---
 
