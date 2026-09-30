@@ -21,7 +21,7 @@ export const BRAND = {
   x: "https://x.com/verifyroute",
   xHandle: "@verifyroute",
   /** Public GitHub repository. Empty hides every GitHub link on the site. */
-  github: "" as string,
+  github: "https://github.com/" as string,
   ca: CA,
 } as const;
 
